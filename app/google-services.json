@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819593002549",
+    "project_id": "try-on-tech",
+    "storage_bucket": "try-on-tech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819593002549:android:1ba7386a1d3a60f41bfb7c",
+        "android_client_info": {
+          "package_name": "com.abc.ecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDEIx_W6SAD9CbMkvylju7ICsvL4hZOt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
